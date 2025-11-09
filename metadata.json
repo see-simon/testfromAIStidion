@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Product Management Dashboard",
+  "description": "A web application to perform CRUD (Create, Read, Update, Delete) operations on a product inventory. This provides a user-friendly interface to manage products by their name and barcode.",
+  "requestFramePermissions": []
+}
